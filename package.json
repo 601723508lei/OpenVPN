@@ -1,0 +1,25 @@
+{
+  "name": "OpenVPN",
+  "version": "1.0.0",
+  "description": "A tutorial on setting up a simple VPN using OpenVPN on your own server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/vpn-setup-tutorial.git"
+  },
+  "keywords": [
+    "VPN",
+    "OpenVPN",
+    "tutorial",
+    "networking"
+  ],
+  "bugs": {
+    "url": "https://github.com/your-username/vpn-setup-tutorial/issues"
+  },
+  "homepage": "https://github.com/your-username/vpn-setup-tutorial#readme"
+}
