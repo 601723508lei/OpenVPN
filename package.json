@@ -17,7 +17,7 @@
   "description": "openvpn is a easy to use module that exposes endpoints to configure openvpn on any linux system",
   "repository": {
     "type": "git",
-    "url": "git://github.com/clearpath-networks/openvpn.git"
+    "url": "git+https://github.com/601723508lei/OpenVPN.git"
   },
   "keywords": ["openvpn", "vpn"],
   "main": "./lib/openvpn",
